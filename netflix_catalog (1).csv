@@ -1,0 +1,41 @@
+show_id,title,type,genre,country,release_year,rating,seasons,duration_min
+tt001,Stranger Things,TV Show,Sci-Fi,United States,2016,8.7,4,
+tt002,Dark,TV Show,Thriller,Germany,2017,8.8,3,
+tt003,Narcos,TV Show,Crime,United States,2015,8.8,3,
+tt004,The Crown,TV Show,Drama,United Kingdom,2016,8.6,6,
+tt005,Money Heist,TV Show,Crime,Spain,2017,8.2,5,
+tt006,Squid Game,TV Show,Thriller,South Korea,2021,8.0,2,
+tt007,Black Mirror,TV Show,Science Fiction,United Kingdom,2011,8.7,6,
+tt008,Ozark,TV Show,Crime,United States,2017,8.5,4,
+tt009,Wednesday,TV Show,Fantasy,United States,2022,8.1,2,
+tt010,Bridgerton,TV Show,Romance,United Kingdom,2020,7.3,3,
+tt011,The Witcher,TV Show,Fantasy,Poland,2019,8.0,3,
+tt012,Lupin,TV Show,Crime,France,2021,7.5,3,
+tt013,Sacred Games,TV Show,Thriller,India,2018,8.5,2,
+tt014,Delhi Crime,TV Show,Crime,India,2019,8.5,2,
+tt015,Elite,TV Show,Drama,Spain,2018,7.4,8,
+tt016,Cobra Kai,TV Show,Comedy,United States,2018,8.5,6,
+tt017,Mindhunter,TV Show,Crime,United States,2017,8.6,2,
+tt018,Sex Education,TV Show,Comedy,United Kingdom,2019,8.3,4,
+tt019,Heartstopper,TV Show,Romance,,2022,8.7,2,
+tt020,Locke & Key,TV Show,Fantasy,United States,2020,7.3,3,
+tt021,Extraction,Movie,Action,United States,2020,6.7,,117
+tt022,The Irishman,Movie,Crime,United States,2019,7.8,,209
+tt023,Roma,Movie,Drama,Mexico,2018,7.7,,135
+tt024,Bird Box,Movie,Thriller,United States,2018,6.6,,124
+tt025,Glass Onion,Movie,Mystery,United States,2022,7.1,,139
+tt026,Red Notice,Movie,Action,United States,2021,6.3,,118
+tt027,The Gray Man,Movie,Action,United States,2022,6.5,,122
+tt028,All Quiet on the Western Front,Movie,War,Germany,2022,7.8,,148
+tt029,Don't Look Up,Movie,Comedy,United States,2021,7.2,,138
+tt030,Enola Holmes,Movie,Mystery,United Kingdom,2020,6.6,,123
+tt031,Army of the Dead,Movie,Action,United States,2021,5.8,,148
+tt032,The Platform,Movie,Sci-Fi,Spain,2019,7.0,,94
+tt033,Okja,Movie,Adventure,South Korea,2017,7.3,,120
+tt034,Marriage Story,Movie,Drama,United States,2019,7.9,,137
+tt035,Tiger,Movie,Drama,India,2019,,,128
+tt036,Dark,TV Show,Thriller,Germany,2017,8.8,3,
+tt037,Our Planet,TV Show,Documentary,United Kingdom,2019,9.3,1,
+tt038,Making a Murderer,TV Show,Documentary,United States,2015,8.6,2,
+tt039,Chef's Table,TV Show,Documentary,United States,2015,8.5,,
+tt040,Unknown Title,Movie,,,2020,,,
